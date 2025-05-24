@@ -1,3 +1,5 @@
+# How to start
+
 要让一个全新的机器狗学会走路，并通过强化学习（Reinforcement Learning, RL）和神经网络逐步适应复杂地形，可以按照以下分阶段方法进行训练：
 
 ---
