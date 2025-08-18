@@ -4,5 +4,5 @@ This is the first robot project developed by the <b> HongMing Intellignet Techno
 
 ## 
 ## Contribute
-Software Engineer：Hongyi Hao(Lanyi_adict)
+Software Engineer：Hongyi Hao(Lanyi_adict)<br>
 Mechanical Engineer: Bingyu Zhou (Joyang_Maco)
